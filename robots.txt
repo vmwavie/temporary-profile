@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vmwavie.cc
+
+# Sitemaps
+Sitemap: https://vmwavie.cc/sitemap.xml
